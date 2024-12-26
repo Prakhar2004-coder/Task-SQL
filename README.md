@@ -1,0 +1,1 @@
+This table contains information of the patients in the hospital. Write a solution to find the patient_id, patient_name, and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix.
